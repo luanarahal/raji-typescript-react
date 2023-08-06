@@ -1,0 +1,13 @@
+.conteudo {
+    background-color: white;
+    padding-left: 100px;
+    padding-right: 100px;
+    min-height: 70vh;
+}
+
+.box {
+    background-color: bisque;
+    padding-left: 200px;
+    padding-right: 200px;
+    min-height: 70vh;
+}
