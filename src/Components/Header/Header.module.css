@@ -1,0 +1,12 @@
+.mainheader {
+    background-color: #f89751;
+    padding: 10px;
+    overflow: auto;
+}
+.logo {
+    float: left;
+}
+.menu {
+    float: right;
+    padding-top: 10px;
+}
